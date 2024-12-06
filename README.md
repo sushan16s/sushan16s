@@ -17,4 +17,4 @@ I'm a CSE Student
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://visitcount.itsvg.in/api?id=sushan16s&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
-https://visitcount.itsvg.in/api?id=sushan16s&label=Profile%20Views&color=0&icon=0&pretty=false
+
