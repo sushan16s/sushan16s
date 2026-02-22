@@ -1,5 +1,7 @@
-# 💫 About Me:
-I'm a CSE Student
+# About Me:
+Hi I'm Sushan S
+Data Analyst | Business Analyst
+SQL 
 
 
 ## 🌐 Socials:
