@@ -1,7 +1,36 @@
 # About Me:
 Hi I'm Sushan S
+
 Data Analyst | Business Analyst
-SQL 
+
+Skilled in SQL, Power BI, Excel, and Python.
+I specialize in analyzing structured datasets and building KPI-driven dashboards to support business decisions.
+
+# Featured Projects
+E-Commerce Sales Analysis
+
+Analyzed 50K+ sales records
+
+Performed SQL-based data cleaning
+
+Built Power BI KPI dashboard
+
+SQL-Based Business KPI Dashboard
+
+Developed optimized SQL queries
+
+Defined revenue and growth KPIs
+
+Created performance dashboards
+
+T20 World Cup Performance Analysis
+
+Conducted EDA on player datasets
+
+Built interactive dashboard
+
+# Technical Skills
+SQL | Power BI | Excel | Python | EDA | KPI Analysis
 
 
 ## 🌐 Socials:
