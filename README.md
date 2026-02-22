@@ -15,6 +15,7 @@ Performed SQL-based data cleaning
 
 Built Power BI KPI dashboard
 
+
 SQL-Based Business KPI Dashboard
 
 Developed optimized SQL queries
@@ -22,6 +23,7 @@ Developed optimized SQL queries
 Defined revenue and growth KPIs
 
 Created performance dashboards
+
 
 T20 World Cup Performance Analysis
 
