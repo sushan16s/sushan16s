@@ -6,7 +6,7 @@ Data Analyst | Business Analyst
 Skilled in SQL, Power BI, Excel, and Python.
 I specialize in analyzing structured datasets and building KPI-driven dashboards to support business decisions.
 
-## Featured Projects
+# Featured Projects
 
 ### E-Commerce Sales Analysis
 - Analyzed **5K+ sales records**
